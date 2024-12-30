@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rhasan55
 - 👀 I’m interested in ML and anything data
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email at rhasan0035@gmail.com
 
