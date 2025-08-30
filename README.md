@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rhasan55
+- 👋 Hi, I’m Hasan
 - 👀 I’m interested in ML and anything data
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me email at rhasan0035@gmail.com
 
 <!---
 rhasan55/rhasan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
